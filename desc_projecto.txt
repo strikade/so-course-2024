@@ -1,0 +1,9 @@
+para empezar debo entender que se está pidiendo
+0) entender la estructura del contenedor que el espera que realicemos:
+supongamos que hago build del docker y esta montado, este va a crear minimo 3 y se necesitan 10 en funcionamiento en simultaneo segun el caso de estudio
+0.1)averiguar el funcionamiento de synchrontainer
+
+
+1) el profesor pide que hagan un fork de la carpeta en github que el mismo proporcionó
+2) antes de hacer build del docker,aqui está la duda, deben hacerse cambios al dockerfile y a app.py 
+2.5) hacer build del docker y hacer cambios despues? o debe hacerse por medio de docker en consola
